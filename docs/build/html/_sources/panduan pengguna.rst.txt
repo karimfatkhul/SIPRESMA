@@ -136,7 +136,7 @@ Berikut langkah-langkah pembuatan akun pengguna untuk SIPRESMA.
      :alt: gambar 4. Detail Pengguna
 
 
- 2. Sistem akan menampilkan daftar prestasi lomba berdasrkan kategori yang dipilih. Tekan tombol :code:`Ekspor ke Excel` untuk mengunduh daftar prestasi lomba dalam format Excel.
+ 2. Sistem akan menampilkan daftar prestasi lomba berdasarkan kategori yang dipilih. Tekan tombol :code:`Ekspor ke Excel` untuk mengunduh daftar prestasi lomba dalam format Excel.
 
 
   .. figure:: images/prestasi2.png
@@ -224,7 +224,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
 
  2. Jika kombinasi nama pengguna dan kata sandi sesuai, Mahasiswa akan secara otomatis diarahkan ke halaman Dashboard.
  3. Pilih menu :code:`Prestasi Lomba` untuk menginputkan data prestasi dengan kategori Lomba. Prestasi dengan kategori lomba sendiri terdiri atas, lomba tingkat wilayah, propinsi, nasional dan internasional. Mahasiswa juga dapat memilih  menu :code:`Prestasi Nonlomba` untuk menginputkan data prestasi dengan kategori nonlomba. Prestasi dengan kategori nonlomba  terdiri atas, wirausaha, pertukaran mahasiswa tingkat nasional dan internasional, pengabdian masyarakat serta rekognisi.
- 4. Tekan  menu lomba sesuai kategori lomba yang diinginkan. Lalu pada pojok kanan atas tekan tombol :code:`Submit Prestasi`. Sistem akan menampilkan formulir isian berdasrkan kategori lomba yang dipilih
+ 4. Tekan  menu lomba sesuai kategori lomba yang diinginkan. Lalu pada pojok kanan atas tekan tombol :code:`Submit Prestasi`. Sistem akan menampilkan formulir isian berdasarkan kategori lomba yang dipilih.
 
   
   .. figure:: images/daftar-lomba.png
@@ -232,7 +232,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
      :alt: gambar 1. halaman login
 
 
- 5. Lengkapi data pada kolom isian yang ada. Tekan tombol :code:`Selanjutnya` untuk berpindah ke form dari form isian satu ke form isian selanjutnya. Jika sudah terisi semua tekan :code:`Submit` untuk menyimpan data.
+ 5. Lengkapi data pada kolom isian yang ada. Tekan tombol :code:`Selanjutnya` untuk berpindah dari form isian satu ke form isian selanjutnya. Jika sudah terisi semua tekan :code:`Submit` untuk menyimpan data.
 
   
   .. figure:: images/form-lomba.png
@@ -348,7 +348,7 @@ Pengguna dengan peran sebagai :code:`Kasubag Akademik` mempunyai hak akses untuk
 
 
  4. Pada halaman detail prestasi, tekan tombol :code:`Unduh Lampiran` untuk memverifikasi lampiran yang disematkan.
- 5. Jika data prestasi valid tekan tombol :code:`Setujui`, jika tidak valid tekan tombol :code:`Tolak`. Sistem akan menampilkan jendela konfirmasi untuk memerikan persetujuan atau penolakan. Tekan tombol :code:`Ya, Setujui` untuk memberikan persetujuan, dan tekan :code:`Batal` untuk membatalkan.
+ 5. Jika data prestasi valid tekan tombol :code:`Setujui`, jika tidak valid tekan tombol :code:`Tolak`. Sistem akan menampilkan jendela konfirmasi untuk memberikan persetujuan atau penolakan. Tekan tombol :code:`Ya, Setujui` untuk memberikan persetujuan, dan tekan :code:`Batal` untuk membatalkan.
 
 
   .. figure:: images/setujui.png
@@ -363,7 +363,7 @@ Pengguna dengan peran sebagai :code:`Kasubag Akademik` mempunyai hak akses untuk
 **3. Mengunduh data prestasi dalam bentuk Excel**
 
 
- 3. Tekan  menu 1. Kasubag Akademik melakukan proses otentikasi melalui halaman Login.
+ 1. Kasubag Akademik melakukan proses otentikasi melalui halaman Login.
 
   
   .. figure:: images/login.png
@@ -371,7 +371,8 @@ Pengguna dengan peran sebagai :code:`Kasubag Akademik` mempunyai hak akses untuk
      :alt: gambar 1. halaman login
 
 
- 2. Jika kombinasi nama pengguna dan kata sandi sesuai, Mahasiswa akan secara otomatis diarahkan ke halaman Dashboard. lomba sesuai kategori lomba yang diinginkan. Sistem akan menampilkan daftar prestasi yang sudah disubmit berdasarkan kategori lomba yang dipilih. Tekan tombol :code:`Ekspor ke Excel` untuk mengunduh data dalam format Excel.
+ 2. Jika kombinasi nama pengguna dan kata sandi sesuai, Mahasiswa akan secara otomatis diarahkan ke halaman Dashboard. 
+ 3. Tekan  menu lomba sesuai kategori lomba yang diinginkan. Sistem akan menampilkan daftar prestasi yang sudah disubmit berdasarkan kategori lomba yang dipilih. Tekan tombol :code:`Ekspor ke Excel` untuk mengunduh data dalam format Excel.
 
   
   .. figure:: images/detail.png
@@ -382,7 +383,7 @@ Pengguna dengan peran sebagai :code:`Kasubag Akademik` mempunyai hak akses untuk
 4. Staff Subag Kemahasiswaan dan Staff Jurusan
 ===============================================
   
-Pengguna dengan peran sebagai :code:`Staff Subag Kemahasiswaan` dan :code:`Staff Jurusan` mempunyai hak akses untuk melihat data prestasi yang dimasukkan mahasiswa, untuk selanjutnya dibuat rekapitulasi sebagai laporan ke pihak Universitas ataupun untuk kebutuhan lainnya.
+Pengguna dengan peran sebagai :code:`Staff Subag Kemahasiswaan` dan :code:`Staff Jurusan` mempunyai hak akses untuk melihat data prestasi yang diinputkan Mahasiswa. Selanjutnya dari data tersebut dapat dibuat rekapitulasinya sebagai laporan ke pihak Universitas ataupun untuk kebutuhan lainnya.
 
 **1. Memperbarui akun**
 
