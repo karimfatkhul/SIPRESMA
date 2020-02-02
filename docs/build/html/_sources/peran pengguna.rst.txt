@@ -2,7 +2,7 @@
    sphinx-quickstart on Sun Dec  1 08:09:41 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-   
+
 ***************
 Peran Pengguna
 ***************
@@ -43,5 +43,5 @@ Untuk mempermudah penggunaan SIPRESMA, sistem informasi ini terbagi atas beberap
 4. Staff Subag Kemahasiswaan dan Staff Jurusan
 ===============================================
 
-	Pengguna dengan peran sebagai :code:`Staff Subag Kemahasiswaan` dan :code:`Staff Jurusan` mempunyai hak akses untuk melihat data prestasi yang dimasukkan mahasiswa, untuk selanjutnya dibuat rekapitulasi sebagai laporan ke pihak Universitas ataupun digunakan untuk keperluan lainnya.
+	Pengguna dengan peran sebagai :code:`Staff Subag Kemahasiswaan` dan :code:`Staff Jurusan` mempunyai hak akses untuk melihat data prestasi yang dimasukkan mahasiswa. Selanjutnya dari data-data tersebut dapat dibuat rekapitulasi sebagai laporan ke pihak Universitas ataupun digunakan untuk keperluan lainnya.
 
