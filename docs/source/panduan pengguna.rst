@@ -3,15 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+*****************
 Panduan Pengguna
-=================================================
+*****************
 
-Berikut panduan penggunanaan SIDADU berdasarlan peran masing-masing
+Berikut panduan penggunanaan SIPRESMA berdasarkan peran masing-masing
 
 Admin
-=================================================
+=============
   
-Secara default, SIDADU mempunyai satu akun pengguna yang perannya sebagai Admin. Selanjutnya Admin dapat membuat akun untuk pengguna-pengguna lainnya sesuai dengan peran yang diinginkan.
+Secara default, SIPRESMA mempunyai satu akun pengguna yang perannya sebagai Admin. Selanjutnya Admin dapat membuat akun untuk pengguna-pengguna lainnya sesuai dengan peran yang diinginkan.
 
 **Note**
 
@@ -149,7 +150,7 @@ Pembuatan akun pengguna hanya dapat dilakukan oleh pengguna dengan peran atau ha
 
 
 Mahasiswa
-=================================================
+=============
   
 Peran utama Mahasiswa dalam SIPRESMA adalah untuk memasukkan data prestasi yang pernah diraihnya, guna pengajuan insentif dari Fakultas ataupun Universitas.
 
@@ -235,7 +236,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk memasukkan data prestasi yang 
 
 
 Kasubag Akademik
-=================================================
+=================
   
 Pengguna dengan peran sebagai :code:`Kasubag Akademik` mempunyai hak akses untuk meninjau data prestasi yang dimasukkan oleh Mahasiswa. Selanjutnya apabila data yang dimasukkan sudah memenuhi syarat, maka akan disiapkan Resume untuk Mahasiswa bersangkutan. Resume ini nantinya digunakan untuk pengajuan insentif ke pihak Fakultas atau Universitas.
 
@@ -311,7 +312,7 @@ Pengguna dengan peran sebagai :code:`Kasubag Akademik` mempunyai hak akses untuk
 
 
 Staff Subag Kemahasiswaan dan Staff Jurusan
-=================================================
+============================================
   
 Pengguna dengan peran sebagai :code:`Staff Subag Kemahasiswaan` dan :code:`Staff Jurusan` mempunyai hak akses untuk melihat data prestasi yang dimasukkan mahasiswa, untuk selanjutnya dibuat rekapitulasi sebagai laporan ke pihak Universitas.
 

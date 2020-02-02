@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'SIPRESMA'
+project = u'Sistem Informasi Prestasi Mahasiswa'
 copyright = u'2019, Fatkhul Karim'
 author = u'Fatkhul Karim'
 
