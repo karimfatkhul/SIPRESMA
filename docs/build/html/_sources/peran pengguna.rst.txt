@@ -16,7 +16,7 @@ Untuk mempermudah penggunaan SIPRESMA, sistem informasi ini terbagi atas beberap
 
 
 .. note::
-    Pengguna dengan peran sebagai Admin, secara otomatis akan mempunyai hak akses sebagai Admin disemua sistem informasi yang ada (SIREBI, SIPRESMA dan SILAMA). Jadi ketika kita membuat pengguna dengan peran sebagai Admin melalui SIPRESMA, maka secara otomatis pengguna yang baru saja dibuat tersebut dapat mengakses SIREBI dan SILAMA dengan hak akses sebagai Admin. 
+    Pengguna dengan peran sebagai Admin, secara otomatis akan mempunyai hak akses sebagai Admin disemua sistem informasi yang ada (SIREBI, SIPRESMA dan SIYANMA). Jadi ketika kita membuat pengguna dengan peran sebagai Admin melalui SIPRESMA, maka secara otomatis pengguna yang baru saja dibuat tersebut dapat mengakses SIREBI dan SIYANMA dengan hak akses sebagai Admin. 
 
  
 
@@ -27,7 +27,7 @@ Untuk mempermudah penggunaan SIPRESMA, sistem informasi ini terbagi atas beberap
 
 
 .. note::
-    Ketika kita membuat pengguna dengan peran sebagai Mahasiswa di SIPRESMA, secara otomatis pengguna tersebut juga mempunyai hak akses ke Sistem Informasi Layanan Akademik (SILAMA) dengan peran sebagai Mahasiswa.
+    Ketika kita membuat pengguna dengan peran sebagai Mahasiswa di SIPRESMA, secara otomatis pengguna tersebut juga mempunyai hak akses ke Sistem Informasi Layanan Akademik (SIYANMA) dengan peran sebagai Mahasiswa.
 
 
 3. Kasubag Akademik
