@@ -15,9 +15,6 @@ Berikut panduan penggunanaan SIPRESMA berdasarkan peran masing-masing
 Secara default, SIPRESMA mempunyai satu akun pengguna yang perannya sebagai Admin. Selanjutnya Admin dapat membuat akun untuk pengguna-pengguna lainnya sesuai dengan peran yang diinginkan.
 
 
-.. note::
-    Khusus untuk pengguna dengan peran sebagai Mahasiswa, Mahasiswa dapat mendaftarkan dirinya sendiri secara mandiri melalui halaman pendaftaran di SIPRESMA. 
-
 
 **1. Pembuatan akun pengguna**
 
@@ -161,58 +158,8 @@ Berikut langkah-langkah pembuatan akun pengguna untuk SIPRESMA.
 Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yang pernah diraihnya, guna pengajuan insentif dari Fakultas ataupun Universitas.
 
 
-**1. Membuat akun pengguna**
 
- 1. Buka portal SIPRESMA melalui browser (mesin pencari). Pada halaman Login, klik pada tautan :code:`Daftar Sekarang`.
-
-  
-  .. figure:: images/login.png
-     :width: 600
-     :alt: gambar 1. halaman login
-
-
- 2. Sistem akan menampilkan formulir untuk pendaftaran pengguna baru dengan peran sebagai Mahasiswa.
- 3. Isi semua kolom pada formulir pendaftaran, lalu tekan tombol :code:`Daftar`.
-
-  
-  .. figure:: images/daftar-baru.png
-     :width: 600
-     :alt: gambar 1. halaman login
-
-
- .. note::
-    Pastikan alamat email yang digunakan untuk mendaftar adalah alamat email yang aktif.
-
-
- 4. Jika data isian telah sesuai, sistem akan memberikan informasi pemberitahuan bahwa pengguna berhasil dibuat. Jika data isian tidak sesuai, sistem akan memberikan pemberitahuan pesan error. Ikuti petunjuk pada pesan error tersebut untuk mengatasi permasalahan yang ditemui.
- 5. Jika proses pendaftaran berhasil, periksa pada kotak masuk email yang digunakan untuk mendaftar. Sistem akan secara otomatis mengirimkan nama pengguna dan kata sandi ke email tersebut. Nama pengguna dan kata sandi ini diperlukan untuk dapat masuk ke layanan SIPRESMA.
-
-
-**2. Memperbarui akun**
-
- 1. Mahasiswa melakukan proses otentikasi melalui halaman Login.
-
-  
-  .. figure:: images/login.png
-     :width: 600
-     :alt: gambar 1. halaman login
-
-
- 2. Jika kombinasi nama pengguna dan kata sandi sesuai, Mahasiswa akan secara otomatis diarahkan ke halaman Dashboard.
- 3. Pilih menu :code:`Kelola Akun Saya`. Sistem akan mengarahkan ke halaman detail akun pengguna.
-
-  
-  .. figure:: images/kelola-akun.png
-     :width: 600
-     :alt: gambar 1. halaman login
-
-
- 4. Isikan data pada kolom isian yang ingin diperbarui datanya.
- 5. Tekan tombol :code:`Perbarui` untuk mengupdate data.
- 6. Jika data isian telah sesuai, sistem akan memberikan informasi pemberitahuan bahwa data berhasil disimpan. Jika data isian tidak sesuai, sistem akan memberikan pemberitahuan pesan error. Ikuti petunjuk pada pesan error tersebut untuk mengatasi permasalahan yang ditemui.
-
-
-**3. Menginputkan data prestasi**
+**1. Menginputkan data prestasi**
 
  1. Mahasiswa melakukan proses otentikasi melalui halaman Login.
 
@@ -243,7 +190,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
  6. Jika data isian telah sesuai, sistem akan memberikan informasi pemberitahuan bahwa data berhasil disimpan. Data yang berhasil tersimpan akan diteruskan ke :code:`Kasubag Akademik` untuk direview. Jika data isian tidak sesuai, sistem akan memberikan pemberitahuan pesan error. Ikuti petunjuk pada pesan error tersebut untuk mengatasi permasalahan yang ditemui.
 
 
-**4. Melihat status data prestasi yang sudah disubmit**
+**2. Melihat status data prestasi yang sudah disubmit**
 
  1. Tekan  menu lomba sesuai kategori lomba yang diinginkan. Sistem akan menampilkan daftar prestasi yang sudah disubmit berdasarkan kategori lomba yang dipilih. 
 
@@ -257,7 +204,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
  3. Jika status data prestasi :code:`Disetujui`, selanjutnya Mahasiswa dapat mengunduh resume yang dapat digunakan untuk pengajuan insentif ke pihak Fakultas atau Universitas.
 
 
-**5. Mengunduh resume**
+**3. Mengunduh resume**
 
  1. Tekan  menu lomba sesuai kategori lomba yang diinginkan. Sistem akan menampilkan daftar prestasi yang sudah disubmit berdasarkan kategori lomba yang dipilih. 
  2. Tekan tombol :code:`Detail` pada data lomba dengan status :code:`Disetujui`. Sistem akan menampilkan detail data prestasi.
@@ -269,7 +216,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
      :alt: gambar 1. halaman login
 
 
-**6. Merevisi data prestasi yang ditolak**
+**4. Merevisi data prestasi yang ditolak**
 
  1. Tekan  menu lomba sesuai kategori lomba yang diinginkan. Sistem akan menampilkan daftar prestasi yang sudah disubmit berdasarkan kategori lomba yang dipilih. 
  2. Klik tanda :code:`...` pada data lomba dengan status :code:`Ditolak`. Pilih  :code:`Detail`.
@@ -280,7 +227,7 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
      :alt: gambar 1. halaman login
 
 
-3. Sistem akan menampilkan detail data lomba. Alasan penolakan dapat dilihat pada bagian :code:`Alasan Disetujui/Ditolak` pada detail lomba tersebut. 
+ 3. Sistem akan menampilkan detail data lomba. Alasan penolakan dapat dilihat pada bagian :code:`Alasan Disetujui/Ditolak` pada detail lomba tersebut. 
 
 
   .. figure:: images/revisi.png
@@ -296,7 +243,8 @@ Peran utama Mahasiswa dalam SIPRESMA adalah untuk menginputkan data prestasi yan
      :alt: gambar 1. halaman login
 
 
- 5. Jika data isian telah sesuai, sistem akan memberikan informasi pemberitahuan bahwa data berhasil disimpan. Data yang berhasil tersimpan akan diteruskan ke :code:`Kasubag Akademik` untuk direview kembali. Jika data isian tidak sesuai, sistem akan memberikan pemberitahuan pesan error. Ikuti petunjuk pada pesan error tersebut untuk mengatasi permasalahan yang ditemui.
+  5. Jika data isian telah sesuai, sistem akan memberikan informasi pemberitahuan bahwa data berhasil disimpan. Data yang berhasil tersimpan akan diteruskan ke :code:`Kasubag Akademik` untuk direview kembali. Jika data isian tidak sesuai, sistem akan memberikan pemberitahuan pesan error. Ikuti petunjuk pada pesan error tersebut untuk mengatasi permasalahan yang ditemui.
+
 
 
 3. Kasubag Akademik
